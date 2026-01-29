@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the implementation of an event-driven simulation-optimization approach for dynamic Field Service Engineer (FSE) routing and scheduling, developed in 2016 as part of an industry-sponsored research project at the University of New South Wales, Sydney.
+This repository contains the implementation of an event-driven simulation-optimization approach for dynamic Field Service Engineer (FSE) routing and scheduling, developed in 2016 as part of an industry-sponsored research project.
 
 The system addresses the real-time management of field service engineers who must balance planned maintenance jobs with emergency repair requests that arrive stochastically throughout the day. The approach aims to minimize operational costs and the number of required engineers while maintaining workforce schedule stability.
 
